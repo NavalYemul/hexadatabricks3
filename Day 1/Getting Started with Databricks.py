@@ -67,5 +67,7 @@ print("ehello")
 # MAGIC describe extended hexawaredev.sample
 
 # COMMAND ----------
+%sql
+describe history table.name
 
 
