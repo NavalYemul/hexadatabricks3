@@ -48,4 +48,4 @@ dbutils.fs.mv("dbfs:/FileStore/tables/hexaware/demo.csv","dbfs:/FileStore/tables
 
 # COMMAND ----------
 
-
+dbutils.fs.rm("")

@@ -1,5 +1,10 @@
 # Databricks notebook source
 # MAGIC %md
+# MAGIC #### Welcome to databricks
+
+# COMMAND ----------
+
+# MAGIC %md
 # MAGIC # Getting Started with Spark
 # MAGIC ## Getting Started with Databricks
 # MAGIC ### Azure Databricks
